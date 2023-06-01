@@ -21,10 +21,11 @@ const Header = () => {
                 <img src={People} alt='People' />
                 <p>1000 people requested  aceess to visit in last 24 hours</p>
               </div>
-              <div className='gpt3__header-image'>
+              
+        </div>
+        <div className='gpt3__header-image'>
                 <img src={Ai} alt='Ai' />
               </div>
-        </div>
       </div>
     </div>
   )
